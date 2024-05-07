@@ -1,1 +1,2 @@
 print("きたながいおわり")
+print("takaishi")
